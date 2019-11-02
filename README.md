@@ -7,7 +7,7 @@ which is based on [AMPS](http://www.ampsmodeling.org/). The version under develo
   - is extended to two dimensions 
   - replaces the finite time difference solver with a finite elements solver 
   
-The original version, AMPS (Analysis of Microelectronic and Photonic Structures), was developed in the group of Stephen Fonash at Penn State University. wxAMPS has been under development by Angus Rockett and Yiming Liu at the University of Illinois. 
+The original version, AMPS (Analysis of Microelectronic and Photonic Structures), was developed in the group of Stephen Fonash at Penn State University. The open source version, wxAMPS, has been under development by Angus Rockett and Yiming Liu at the University of Illinois. 
 
 ## Acknowledge 
 Please acknowledge the following if you use wxAMPS-2D in your work:
