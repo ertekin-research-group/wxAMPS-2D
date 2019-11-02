@@ -1,10 +1,8 @@
 # wxAMPS-2D
 development 2D version of wxAMPS
 
-wxAMPS-2D is based on wxAMPS Version 3
-(see: https://wiki.illinois.edu//wiki/display/solarcellsim/Simulation+Software)
-which is based on AMPS
-(see: http://www.ampsmodeling.org/) 
+wxAMPS-2D is based on [wxAMPS Version 3](https://wiki.illinois.edu//wiki/display/solarcellsim/Simulation+Software), 
+which is based on [AMPS](http://www.ampsmodeling.org/).
 
 The version under development here 
   - is extended to two dimensions 
